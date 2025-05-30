@@ -1,0 +1,12 @@
+title: "Ndapa"
+description: "Personal site of Ndapa"
+url: "https://ndapa.github.io"
+baseurl: "" # keep this empty for user site
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+author:
+  name: Ndapa
+  email: your@email.com
