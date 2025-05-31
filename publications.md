@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
 Recent publications. [Full list](https://dblp.org/pid/98/53.html)
 
 **Typology-Guided Adaptation in Multilingual Models**  
