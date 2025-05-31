@@ -6,66 +6,47 @@ permalink: /publications/
 
 # Publications
 
-### Typology-Guided Adaptation in Multilingual Models  
-**Ndapa Nakashole**  
-_**ACL 2025 (to appear)**_
+**Typology-Guided Adaptation in Multilingual Models**  
+Ndapa Nakashole  
+*ACL 2025 (to appear)*
 
----
+**On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL in T5**  
+Yutong Shao, Ndapa Nakashole  
+*NAACL 2024* [PDF](https://aclanthology.org/2024.naacl-main.000)
 
-### On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL in T5  
-**Yutong Shao**, **Ndapa Nakashole**  
-_**NAACL 2024**_
+**SYMPTOMIFY: Large-scale Symptom Recognition in post-Vaccine Reports**  
+Bosung Kim, Ndapa Nakashole  
+*EMNLP 2023 (Findings)* [PDF](https://aclanthology.org/2023.findings-emnlp.000)
 
----
+**Database-aware ASR Error Correction For Speech-to-SQL Parsing**  
+Yutong Shao, Arun Kumar, Ndapa Nakashole  
+*ICASSP 2023*
 
-### SYMPTOMIFY: Large-scale Symptom Recognition in post-Vaccine Reports  
-**Bosung Kim**, **Ndapa Nakashole**  
-_**EMNLP 2023 (Findings)**_
+**Advances in NLP and their Applications to Healthcare**  
+Ndapa Nakashole  
+*NeurIPS Tutorials 2022*
 
----
+**Structured Data Representation in Natural Language Interfaces**  
+Yutong Shao, Arun Kumar, Ndapa Nakashole  
+*IEEE Data Engineering Bulletin, Sept 2022*
 
-### Database-aware ASR Error Correction For Speech-to-SQL Parsing  
-**Yutong Shao**, **Arun Kumar**, **Ndapa Nakashole**  
-_**ICASSP 2023**_
+**Medical Question Understanding and Answering with Knowledge Grounding and Semantic Self-Supervision**  
+Khalil Mrini et al., Ndapa Nakashole  
+*COLING 2022* [PDF](https://aclanthology.org/2022.coling-main.000)
 
----
+**Data Augmentation for Rare Symptoms in Vaccine Side-Effect Detection**  
+Bosung Kim, Ndapa Nakashole  
+*BioNLP 2022* [PDF](https://aclanthology.org/2022.bionlp-1.000)
 
-### Advances in NLP and their Applications to Healthcare  
-**Ndapa Nakashole**  
-_**NeurIPS Tutorials 2022**_
+**A Grounded Well-being Conversational Agent with Multiple Interaction Modes**  
+Xinxin Yan, Ndapa Nakashole  
+*NLP4PI @ ACL 2021* [PDF](https://aclanthology.org/2021.nlp4pi-1.000)
 
----
+**Recursive Tree-Structured Self-Attention for Answer Sentence Selection**  
+Khalil Mrini, Emilia Farcas, Ndapa Nakashole  
+*ACL 2021* [PDF](https://aclanthology.org/2021.acl-long.000)
 
-### Structured Data Representation in Natural Language Interfaces  
-**Yutong Shao**, **Arun Kumar**, **Ndapa Nakashole**  
-_**IEEE Data Engineering Bulletin, September 2022**_
+**A Gradually Soft Multi-Task and Data-Augmented Approach to Medical Question Understanding**  
+Khalil Mrini et al., Ndapa Nakashole  
+*ACL 2021* [PDF](https://aclanthology.org/2021.acl-long.000)
 
----
-
-### Medical Question Understanding and Answering with Knowledge Grounding and Semantic Self-Supervision  
-**Khalil Mrini**, **Harpreet Singh**, **Franck Dernoncourt**, **Seunghyun Yoon**, **Trung Bui**, **Walter Chang**, **Emilia Farcas**, **Ndapa Nakashole**  
-_**COLING 2022**_
-
----
-
-### Data Augmentation for Rare Symptoms in Vaccine Side-Effect Detection  
-**Bosung Kim**, **Ndapa Nakashole**  
-_**BioNLP 2022**_
-
----
-
-### A Grounded Well-being Conversational Agent with Multiple Interaction Modes: Preliminary Results  
-**Xinxin Yan**, **Ndapa Nakashole**  
-_**NLP for Positive Impact Workshop (NLP4PI) at ACL 2021**_
-
----
-
-### Recursive Tree-Structured Self-Attention for Answer Sentence Selection  
-**Khalil Mrini**, **Emilia Farcas**, **Ndapa Nakashole**  
-_**ACL 2021**_
-
----
-
-### A Gradually Soft Multi-Task and Data-Augmented Approach to Medical Question Understanding  
-**Khalil Mrini**, **Franck Dernoncourt**, **S. Yoon**, **Trung Bui**, **Walter Chang**, **Emilia Farcas**, **Ndapa Nakashole**  
-_**ACL 2021**_
