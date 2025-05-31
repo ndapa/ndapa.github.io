@@ -5,12 +5,15 @@ title: "Home"
 
 # 👋 Welcome
 
-Ndapa Nakashole: Associate Professor of Computer Science at UCSD  
+Ndapa Nakashole
+[🔊 Pronunciation]( {{ '/assets/audio/name.mp3' | relative_url }} )
+
+Associate Professor of Computer Science at UCSD  
 Founder & Chief Scientist of [Okalai AI](https://okalai.org)
 
 ---
 
-Research: **Natural Language Processing (NLP)**, with recent projects spanning Multilingual models, AI for healthcare, and Interpretability.
+Research: Natural Language Processing (NLP), with recent projects spanning: Multilingual models; AI for Healthcare; and Interpretability.
 
 ---
 
