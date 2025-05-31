@@ -6,7 +6,7 @@ title: "Home"
 # 👋 Welcome
 
 Ndapa Nakashole
-[🔊 Pronunciation]( {{ '/assets/audio/name.mp3' | relative_url }} )
+[🔊]( {{ '/assets/audio/name.mp3' | relative_url }} )
 
 Associate Professor of Computer Science at UCSD  
 Founder & Chief Scientist of [Okalai AI](https://okalai.org)
