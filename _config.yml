@@ -7,3 +7,5 @@ theme: minima
 plugins:
   - jekyll-feed
 
+author:
+  name: Ndapa Nakashole
