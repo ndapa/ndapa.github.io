@@ -21,6 +21,17 @@ body {
   text-align: center;
 }
 
+.profile-image {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;         /* Oval / circle shape */
+  border: 3px solid #fff;     /* White border */
+  margin: 1rem 0;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+
 .site-header a {
   color: #fff;
   text-decoration: none;
