@@ -22,11 +22,11 @@ body {
 }
 
 .profile-image {
-  width: 120px;
-  height: 120px;
+  width: 100px;        /* Smaller width */
+  height: 100px;       /* Smaller height */
   object-fit: cover;
-  border-radius: 50%;         /* Oval / circle shape */
-  border: 3px solid #fff;     /* White border */
+  border-radius: 50%;  /* Keeps it oval/circular */
+  border: 3px solid #fff;
   margin: 1rem 0;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
