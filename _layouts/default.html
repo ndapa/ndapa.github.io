@@ -12,16 +12,21 @@
 </head>
 <body>
 
-  <header class="site-header">
-    <div class="container">
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <nav>
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/about/' | relative_url }}">About</a>
-        <a href="{{ '/blog/' | relative_url }}">Blog</a>
-      </nav>
-    </div>
-  </header>
+<header class="site-header">
+  <div class="container">
+    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+
+    <!-- 🖼️ Profile Image -->
+    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Photo of {{ site.author.name }}" class="profile-image" />
+
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/blog/' | relative_url }}">Blog</a>
+    </nav>
+  </div>
+</header>
+
 
   <main class="container">
     {{ content }}
