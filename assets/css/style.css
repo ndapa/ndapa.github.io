@@ -22,8 +22,8 @@ body {
 }
 
 .profile-image {
-  width: 100px;        /* Smaller width */
-  height: 100px;       /* Smaller height */
+  width: 120px;        /* Smaller width */
+  height: 120px;       /* Smaller height */
   object-fit: cover;
   border-radius: 50%;  /* Keeps it oval/circular */
   border: 3px solid #fff;
