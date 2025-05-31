@@ -12,7 +12,6 @@ Associate Professor of Computer Science at UCSD
 Founder & Chief Scientist of [Okalai AI](https://okalai.org)
 
 <br><br>
-<br><br>
 
 ---
 
@@ -20,7 +19,6 @@ Research: Natural Language Processing (NLP), with recent projects spanning: Mult
 
 ---
 
-<br><br>
 <br><br>
 
 
