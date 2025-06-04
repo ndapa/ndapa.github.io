@@ -4,11 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-Recent publications. [Full list](https://dblp.org/pid/98/53.html)
+Recent publications. [DBLP entry](https://dblp.org/pid/98/53.html) |  [Semantic Scholar](https://www.semanticscholar.org/author/Ndapandula-Nakashole/3115592)
 
-**Typology-Guided Adaptation in Multilingual Models**  
+**Typology-Guided Adaptation in Multilingual Models** [📄 PDF]({{ '/assets/papers/2025-moi-acl.pdf' | relative_url }})
+  
 Ndapa Nakashole  
-*ACL 2025 (to appear)*
+ACL 2025
 
 
 
