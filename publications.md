@@ -9,6 +9,8 @@ permalink: /publications/
 Recent publication(s)
 
 **Typology-Guided Adaptation in Multilingual Models** [📄 PDF]({{ '/assets/docs/papers/2025-moi-acl.pdf' | relative_url }})
+
+N. Nakashole
 ACL 2025
 
 
