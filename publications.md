@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[DBLP](https://dblp.org/pid/98/53.html) |  [Semantic Scholar](https://www.semanticscholar.org/author/Ndapandula-Nakashole/3115592)
+
 
 Selected recent publication(s)
 
@@ -35,6 +35,12 @@ Khalil Mrini et al., Ndapa Nakashole
 **A Grounded Well-being Conversational Agent with Multiple Interaction Modes: Preliminary Results**  
 Xinxin Yan, Ndapa Nakashole  
 *NLP4PI @ ACL 2021* [PDF](https://aclanthology.org/2021.nlp4posimpact-1.16.pdf)
+
+<br>
+
+See all publications: [DBLP](https://dblp.org/pid/98/53.html) |  [Semantic Scholar](https://www.semanticscholar.org/author/Ndapandula-Nakashole/3115592)
+
+<br>
 
 
 
