@@ -16,6 +16,8 @@ Founder & Chief Scientist of [Okalai AI](https://okalai.org)
 ---
 
 Research: Natural Language Processing (NLP), with recent projects spanning: Multilingual models; AI for Healthcare; and Interpretability.
+Teaching: SampleCSE 256,[📄 Syllabus (Fall 2024)]({{ '/assets/docs/syllabus_fa24.pdf' | relative_url }})
+
 
 ---
 
