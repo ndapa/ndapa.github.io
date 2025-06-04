@@ -6,7 +6,7 @@ permalink: /publications/
 
 [DBLP](https://dblp.org/pid/98/53.html) |  [Semantic Scholar](https://www.semanticscholar.org/author/Ndapandula-Nakashole/3115592)
 
-Recent publication(s)
+Selected recent publication(s)
 
 **Typology-Guided Adaptation in Multilingual Models**  
 Ndapa Nakashole  
