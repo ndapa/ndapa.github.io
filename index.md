@@ -8,7 +8,7 @@ title: "Home"
 Ndapa Nakashole
 [🔊]( {{ '/assets/audio/name.mp3' | relative_url }} )
 
-Associate Professor of [Computer Science at UCSD](https://cse.ucsd.edu/)  
+Associate Professor,  [Department of Computer Science and Engineering](https://cse.ucsd.edu/), [University of California, San Diego](https://cse.ucsd.edu/) 
 Founder & Chief Scientist of [Okalai AI](https://okalai.org)
 
 <br>
