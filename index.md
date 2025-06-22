@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# 👋 Hi
+# 👋 
 
 Ndapa Nakashole
 [🔊]( {{ '/assets/audio/name.mp3' | relative_url }} )
