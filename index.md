@@ -23,7 +23,7 @@ Her research focuses on natural language processing (NLP), with particular empha
 She is a recipient of the NSF CAREER Award and the Otto Hahn Medal, and her work has contributed to advancing NLP through the development of novel datasets, models, and tools.
 
 Prior to UCSD, she completed a postdoctoral fellowship in the Machine Learning Department at Carnegie Mellon University. 
-she holds a BSc and MSc in Computer Science from the University of Cape Town, and she earned her PhD from the Max Planck Institute for Informatics and Saarland University.
+She holds a BSc and MSc in Computer Science from the University of Cape Town, and obtained her PhD from the Max Planck Institute for Informatics and Saarland University.
 
 ---
 
