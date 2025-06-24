@@ -6,6 +6,13 @@ permalink: /teaching/
 
 ## Teaching
 
+## Recent teaching
+
+
+Courses are hosted on UCSD Canvas. [📄  CSE 256 Syllabus (Fall 2024)]({{ '/assets/docs/syllabus_fa24.pdf' | relative_url }})
+
+
+## Older courses
 <p>Old courses (prior to Fall 2019). Courses after Fall 2019 are hosted on Canvas.</p>
 
 <table>
