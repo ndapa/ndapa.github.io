@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# 👋  Ndapa Nakashole
+ 👋  Ndapa Nakashole
 [🔊]( {{ '/assets/audio/name.mp3' | relative_url }} )
 
 Associate Professor <br>  [Department Computer Science and Engineering](https://cse.ucsd.edu/)  <br>
