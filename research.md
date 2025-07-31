@@ -8,7 +8,7 @@ permalink: /research/
 
 Selected recent publication(s)
 
-**Typology-Guided Adaptation in Multilingual Models** 
+**Typology-Guided Adaptation in Multilingual Models** <br>
 (**Typology-Guided Adaptation in African NLP** )<br>
 Ndapa Nakashole  
 *ACL 2025 — **Outstanding Paper Award***  
