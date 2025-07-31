@@ -12,7 +12,7 @@ Selected recent publication(s)
 (**Typology-Guided Adaptation in African NLP** )
 Ndapa Nakashole  
 *ACL 2025 — **Outstanding Paper Award***  
-[📄 PDF]({{ '/assets/docs/papers/2025-moi-acl.pdf' | relative_url }})  
+[📄 PDF] ({{ '/assets/docs/papers/2025-moi-acl.pdf' | relative_url }}) 
 [Data](https://github.com/okalai-ai/moimoe)
 
 **On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL**  
