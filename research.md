@@ -41,7 +41,7 @@ Xinxin Yan, Ndapa Nakashole
 
 <br>
 
-See all publications: [DBLP](https://dblp.org/pid/98/53.html) |  [Semantic Scholar](https://www.semanticscholar.org/author/Ndapandula-Nakashole/3115592)
+See all publications: [DBLP](https://dblp.org/pid/98/53.html) 
 
 <br>
 
