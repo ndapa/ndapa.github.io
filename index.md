@@ -22,6 +22,7 @@ Founder & Chief Scientist of [Okalai AI](https://okalai.org)
 ### Bio:
 
 Ndapa Nakashole is an Associate Professor of Computer Science at the University of California, San Diego (UCSD).
+Ndapa is  also the Founder & Chief Scientist of [Okalai AI](https://okalai.org) .
 Her research focuses on natural language processing (NLP), with particular emphasis on multilingual models, interpretability, and AI for healthcare.
 
 
