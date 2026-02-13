@@ -8,6 +8,11 @@ permalink: /research/
 
 Selected recent publication(s)
 
+**Sentiment Analysis and Language Models for Kwanyama** 
+(1B, 3B, and 8B parameter LLMs models for Kwanyama )<br>
+Ndapa Nakashole  
+*LREC 2026* 
+
 **Typology-Guided Adaptation in Multilingual Models** <br>
 (*Typology-Guided Adaptation in African NLP*)<br>
 Ndapa Nakashole  
