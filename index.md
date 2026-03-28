@@ -66,6 +66,14 @@ She is a recipient of the <strong>NSF CAREER Award</strong> and the <strong>Otto
     <span class="project-tag">LLMs</span>
     <span class="project-tag">NAACL 2024</span>
   </a>
+  <a href="https://github.com/bosung/SYMPTOMIFY" class="project-card reveal">
+    <span class="project-icon">🏥</span>
+    <div class="project-name">SYMPTOMIFY</div>
+    <div class="project-desc">Large-scale symptom recognition in post-vaccine reports. Supporting human coders in drug safety monitoring systems like VAERS with models that predict and explain identified symptoms.</div>
+    <span class="project-tag">BioNLP</span>
+    <span class="project-tag">Drug Safety</span>
+    <span class="project-tag">EMNLP 2023</span>
+  </a>
   <a href="https://aclanthology.org/2021.nlp4posimpact-1.16.pdf" class="project-card reveal">
     <span class="project-icon">🤖</span>
     <div class="project-name">Marie Bot Wellbeing</div>
@@ -74,13 +82,13 @@ She is a recipient of the <strong>NSF CAREER Award</strong> and the <strong>Otto
     <span class="project-tag">Health</span>
     <span class="project-tag">ACL 2021</span>
   </a>
-  <a href="https://github.com/bosung/SYMPTOMIFY" class="project-card reveal">
-    <span class="project-icon">🏥</span>
-    <div class="project-name">SYMPTOMIFY</div>
-    <div class="project-desc">Large-scale symptom recognition in post-vaccine reports. Supporting human coders in drug safety monitoring systems like VAERS with models that predict and explain identified symptoms.</div>
-    <span class="project-tag">BioNLP</span>
-    <span class="project-tag">Drug Safety</span>
-    <span class="project-tag">EMNLP 2023</span>
+  <a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty" class="project-card reveal">
+    <span class="project-icon">🏛️</span>
+    <div class="project-name">PATTY</div>
+    <div class="project-desc">A WordNet-style taxonomy of binary relational patterns mined from text — organizing synonymous phrases like "X is dating Y" and "X is romantically involved with Y" into a typed semantic hierarchy.</div>
+    <span class="project-tag">Knowledge Bases</span>
+    <span class="project-tag">Information Extraction</span>
+    <span class="project-tag">EMNLP 2012 Best Paper Runner-Up</span>
   </a>
 </div>
 
