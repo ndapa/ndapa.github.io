@@ -17,9 +17,7 @@ title: "Home"
 
 <br>
 
-<div class="reveal">
 <a href="{{ '/assets/docs/Ndapa_Nakashole_CV.pdf' | relative_url }}" class="cv-btn">📄 Curriculum Vitae</a>
-</div>
 
 ---
 
@@ -36,60 +34,6 @@ She holds a BSc and MSc in Computer Science from the University of Cape Town, an
 
 She is a recipient of the <strong>NSF CAREER Award</strong> and the <strong>Otto Hahn Medal</strong>.
 
-</div>
-
----
-
-<h2 class="reveal">Projects</h2>
-
-<div class="projects-grid">
-  <a href="https://okalai.org" class="project-card">
-    <span class="project-icon">🌍</span>
-    <div class="project-name">Okalai AI</div>
-    <div class="project-desc">Building AI for African languages — language models, datasets, and tools to bridge the digital language divide.</div>
-    <span class="project-tag">NLP</span>
-    <span class="project-tag">African Languages</span>
-    <span class="project-tag">LLMs</span>
-  </a>
-  <a href="https://github.com/okalai-ai/moimoe" class="project-card">
-    <span class="project-icon">🧬</span>
-    <div class="project-name">MoiMoE</div>
-    <div class="project-desc">Typology-guided adaptation for multilingual models. Data and code from the ACL 2025 Outstanding Paper.</div>
-    <span class="project-tag">Multilingual</span>
-    <span class="project-tag">ACL 2025</span>
-  </a>
-  <a href="https://aclanthology.org/2024.naacl-long.8.pdf" class="project-card">
-    <span class="project-icon">🗃️</span>
-    <div class="project-name">Linearizing Structured Data for Text-to-SQL</div>
-    <div class="project-desc">Investigating how encoder-decoder LLMs handle structured data linearization for natural language interfaces to databases — lowering technical barriers to advanced computing.</div>
-    <span class="project-tag">Text-to-SQL</span>
-    <span class="project-tag">LLMs</span>
-    <span class="project-tag">NAACL 2024</span>
-  </a>
-  <a href="https://github.com/bosung/SYMPTOMIFY" class="project-card">
-    <span class="project-icon">🏥</span>
-    <div class="project-name">SYMPTOMIFY</div>
-    <div class="project-desc">Large-scale symptom recognition in post-vaccine reports. Supporting human coders in drug safety monitoring systems like VAERS with models that predict and explain identified symptoms.</div>
-    <span class="project-tag">BioNLP</span>
-    <span class="project-tag">Drug Safety</span>
-    <span class="project-tag">EMNLP 2023</span>
-  </a>
-  <a href="https://aclanthology.org/2021.nlp4posimpact-1.16.pdf" class="project-card">
-    <span class="project-icon">🤖</span>
-    <div class="project-name">Marie Bot Wellbeing</div>
-    <div class="project-desc">A grounded well-being conversational agent with a human avatar and multiple interaction modes — medical QA, social companionship, and general chat — to support health monitoring and reduce isolation.</div>
-    <span class="project-tag">Conversational AI</span>
-    <span class="project-tag">Health</span>
-    <span class="project-tag">ACL 2021</span>
-  </a>
-  <a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty" class="project-card">
-    <span class="project-icon">🏛️</span>
-    <div class="project-name">PATTY</div>
-    <div class="project-desc">A WordNet-style taxonomy of binary relational patterns mined from text — organizing synonymous phrases like "X is dating Y" and "X is romantically involved with Y" into a typed semantic hierarchy.</div>
-    <span class="project-tag">Knowledge Bases</span>
-    <span class="project-tag">Information Extraction</span>
-    <span class="project-tag">EMNLP 2012 Best Paper Runner-Up</span>
-  </a>
 </div>
 
 ---
