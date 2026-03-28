@@ -11,7 +11,7 @@
   <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  
+
 </head>
 <body>
 
@@ -19,15 +19,12 @@
   <div class="container">
     <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
 
-    <!-- 🖼️ Profile Image -->
     <img src="{{ '/assets/images/profile2.jpg' | relative_url }}" alt="Photo of {{ site.author.name }}" class="profile-image" />
 
     <nav>
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/research/' | relative_url }}">Research</a>
-      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-       <!--<a href="{{ '/okalai/' | relative_url }}">Okalai</a>  -->
-      <!-- <a href="{{ '/blog/' | relative_url }}">Blog</a> -->
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+      <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} class="active"{% endif %}>Research</a>
+      <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} class="active"{% endif %}>Teaching</a>
     </nav>
   </div>
 </header>
@@ -45,11 +42,10 @@
   gtag('js', new Date());
   gtag('config', 'G-NNBNTYVB9Z');
 </script>
-  
+
   <footer class="site-footer">
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
   </footer>
 
 </body>
 </html>
-

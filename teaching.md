@@ -6,14 +6,17 @@ permalink: /teaching/
 
 ## Teaching
 
-## Recent teaching
+### Current
 
+Courses are hosted on UCSD Canvas.
 
-Courses are hosted on UCSD Canvas. [📄  CSE 256 Syllabus (Fall 2024)]({{ '/assets/docs/syllabus_fa24.pdf' | relative_url }})
+<a href="{{ '/assets/docs/syllabus_fa24.pdf' | relative_url }}" class="cv-btn" style="font-size: 0.9rem; padding: 0.5rem 1.2rem;">📄 CSE 256 Syllabus (Fall 2024)</a>
 
+<br><br>
 
-## Older courses
-<p>Old courses (prior to Fall 2019). Courses after Fall 2019 are hosted on Canvas.</p>
+### Past Courses
+
+<p style="color: var(--text-muted); font-size: 0.9rem;">Courses prior to Fall 2019. Later courses are hosted on Canvas.</p>
 
 <table>
   <thead>
@@ -36,7 +39,7 @@ Courses are hosted on UCSD Canvas. [📄  CSE 256 Syllabus (Fall 2024)]({{ '/ass
 
 ---
 
-## AI Seminar Coordination
+### AI Seminar Coordination
 
 <table>
   <thead>
@@ -53,5 +56,3 @@ Courses are hosted on UCSD Canvas. [📄  CSE 256 Syllabus (Fall 2024)]({{ '/ass
 </table>
 
 ---
-
-
