@@ -77,6 +77,15 @@ permalink: /research/
   </div>
 </div>
 
+<div class="pub-card reveal">
+  <div class="pub-title">PATTY: A Taxonomy of Relational Patterns with Semantic Types <span class="award-badge">🏆 Best Paper Runner-Up</span></div>
+  <div class="pub-authors">Ndapa Nakashole, Gerhard Weikum, Fabian Suchanek</div>
+  <div class="pub-venue">EMNLP 2012</div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/D12-1104/">📄 PDF</a>
+  </div>
+</div>
+
 <div class="all-pubs-link reveal">
   <a href="https://dblp.org/pid/98/53.html">View all publications on DBLP →</a>
 </div>
