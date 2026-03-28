@@ -58,6 +58,30 @@ She is a recipient of the <strong>NSF CAREER Award</strong> and the <strong>Otto
     <span class="project-tag">Multilingual</span>
     <span class="project-tag">ACL 2025</span>
   </a>
+  <a href="https://aclanthology.org/2024.naacl-long.8.pdf" class="project-card reveal">
+    <span class="project-icon">🗃️</span>
+    <div class="project-name">Linearizing Structured Data for Text-to-SQL</div>
+    <div class="project-desc">Investigating how encoder-decoder LLMs handle structured data linearization for natural language interfaces to databases — lowering technical barriers to advanced computing.</div>
+    <span class="project-tag">Text-to-SQL</span>
+    <span class="project-tag">LLMs</span>
+    <span class="project-tag">NAACL 2024</span>
+  </a>
+  <a href="https://aclanthology.org/2021.nlp4posimpact-1.16.pdf" class="project-card reveal">
+    <span class="project-icon">🤖</span>
+    <div class="project-name">Marie Bot Wellbeing</div>
+    <div class="project-desc">A grounded well-being conversational agent with a human avatar and multiple interaction modes — medical QA, social companionship, and general chat — to support health monitoring and reduce isolation.</div>
+    <span class="project-tag">Conversational AI</span>
+    <span class="project-tag">Health</span>
+    <span class="project-tag">ACL 2021</span>
+  </a>
+  <a href="https://github.com/bosung/SYMPTOMIFY" class="project-card reveal">
+    <span class="project-icon">🏥</span>
+    <div class="project-name">SYMPTOMIFY</div>
+    <div class="project-desc">Large-scale symptom recognition in post-vaccine reports. Supporting human coders in drug safety monitoring systems like VAERS with models that predict and explain identified symptoms.</div>
+    <span class="project-tag">BioNLP</span>
+    <span class="project-tag">Drug Safety</span>
+    <span class="project-tag">EMNLP 2023</span>
+  </a>
 </div>
 
 ---
