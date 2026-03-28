@@ -3,11 +3,6 @@ layout: default
 title: "Home"
 ---
 
-<div class="intro-greeting">
-  👋 Ndapa Nakashole
-  <a href="{{ '/assets/audio/name.mp3' | relative_url }}" title="Hear my name">🔊</a>
-</div>
-
 <p class="intro-role">
   Associate Professor, <a href="https://cse.ucsd.edu/">CSE</a> · <a href="https://ucsd.edu/">UC San Diego</a>
 </p>

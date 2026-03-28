@@ -109,6 +109,19 @@ body {
   color: var(--accent);
 }
 
+.name-audio {
+  font-size: 0.6em;
+  vertical-align: middle;
+  text-decoration: none;
+  opacity: 0.5;
+  transition: opacity 0.2s ease;
+}
+
+.name-audio:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+
 .site-header nav {
   display: flex;
   flex-wrap: wrap;
