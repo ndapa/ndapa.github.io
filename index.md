@@ -32,14 +32,14 @@ Her research focuses on natural language processing (NLP), and Artificial Intell
 Prior to UCSD, she completed a postdoctoral fellowship in the Machine Learning Department at Carnegie Mellon University.
 She holds a BSc and MSc in Computer Science from the University of Cape Town, and obtained her PhD from the Max Planck Institute for Informatics and Saarland University.
 
-She is a recipient of the **NSF CAREER Award** and the **Otto Hahn Medal**.
+She is a recipient of the <strong>NSF CAREER Award</strong> and the <strong>Otto Hahn Medal</strong>.
 
 </div>
 
 <div class="contact-section">
 
-📧 **Email**: nnakashole[at]ucsd.edu
+📧 <strong>Email</strong>: nnakashole[at]ucsd.edu
 <br>
-🏢 **Office**: CSE 4108
+🏢 <strong>Office</strong>: CSE 4108
 
 </div>
