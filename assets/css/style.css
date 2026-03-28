@@ -55,7 +55,7 @@ body {
    ============================================ */
 .site-header {
   padding: 0;
-  background: var(--bg);
+  background: #f8faff;
   border-bottom: 1px solid var(--border);
 }
 
@@ -77,7 +77,8 @@ body {
   height: 200px;
   border-radius: 20px;
   overflow: hidden;
-  border: 1px solid var(--border);
+  border: 2px solid #dbe4ff;
+  box-shadow: 0 4px 16px rgba(37, 99, 235, 0.08);
 }
 
 .profile-image {
@@ -164,6 +165,18 @@ h2 {
   margin: 2rem 0 1rem;
   padding-bottom: 0.5rem;
   border-bottom: 2px solid var(--border);
+  position: relative;
+}
+
+h2::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background: var(--accent);
+  border-radius: 1px;
 }
 
 h3 {
@@ -198,7 +211,14 @@ strong {
 }
 
 /* ---- Section cards ---- */
-.bio-section,
+.bio-section {
+  background: linear-gradient(135deg, #f8faff, #f0f4ff);
+  border: 1px solid #dbe4ff;
+  border-radius: var(--radius);
+  padding: 1.5rem 2rem;
+  margin: 1.5rem 0;
+}
+
 .contact-section {
   background: var(--bg-card);
   border: 1px solid var(--border);
@@ -211,6 +231,7 @@ strong {
 .pub-card {
   background: var(--bg-card);
   border: 1px solid var(--border);
+  border-left: 3px solid #dbe4ff;
   border-radius: var(--radius);
   padding: 1.5rem 2rem;
   margin: 0.8rem 0;
@@ -218,7 +239,7 @@ strong {
 }
 
 .pub-card:hover {
-  border-color: var(--accent);
+  border-left-color: var(--accent);
 }
 
 .pub-card .pub-title {
