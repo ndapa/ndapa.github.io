@@ -16,16 +16,20 @@
 <body>
 
 <header class="site-header">
-  <div class="container">
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-
-    <img src="{{ '/assets/images/profile3.jpg' | relative_url }}" alt="Photo of {{ site.author.name }}" class="profile-image" />
-
-    <nav>
-      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
-      <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} class="active"{% endif %}>Research</a>
-      <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} class="active"{% endif %}>Teaching</a>
-    </nav>
+  <div class="hero-inner">
+    <div class="hero-photo">
+      <div class="photo-frame">
+        <img src="{{ '/assets/images/profile3.jpg' | relative_url }}" alt="Photo of {{ site.author.name }}" class="profile-image" />
+      </div>
+    </div>
+    <div class="hero-text">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <nav>
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+        <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} class="active"{% endif %}>Research</a>
+        <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} class="active"{% endif %}>Teaching</a>
+      </nav>
+    </div>
   </div>
 </header>
 
