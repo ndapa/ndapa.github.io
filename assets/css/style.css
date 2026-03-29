@@ -1,21 +1,23 @@
 /* ============================================
-   Clean Academic Site — White & Simple
+   Clean Academic Site — Warm & Polished
    ============================================ */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 
 :root {
-  --bg: #ffffff;
-  --bg-card: #f8f9fa;
-  --bg-card-hover: #f0f1f3;
+  --bg: #fafaf9;
+  --bg-card: #ffffff;
+  --bg-card-hover: #f5f5f4;
   --text: #2d2d2d;
   --text-muted: #6b7280;
   --accent: #2563eb;
   --accent-hover: #1d4ed8;
-  --accent-light: rgba(37, 99, 235, 0.08);
+  --accent-light: rgba(37, 99, 235, 0.06);
   --accent-warm: #dc2626;
   --border: #e5e7eb;
   --radius: 12px;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.06);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.05), 0 2px 4px rgba(0,0,0,0.04);
 }
 
 * {
@@ -34,6 +36,8 @@ body {
   background: var(--bg);
   color: var(--text);
   line-height: 1.7;
+  background-image: radial-gradient(circle at 1px 1px, rgba(0,0,0,0.03) 1px, transparent 0);
+  background-size: 24px 24px;
 }
 
 .container {
@@ -56,8 +60,10 @@ body {
    ============================================ */
 .site-header {
   padding: 0;
-  background: #f8faff;
+  background: #f4f7ff;
   border-bottom: 1px solid var(--border);
+  background-image: radial-gradient(circle at 1px 1px, rgba(37,99,235,0.03) 1px, transparent 0);
+  background-size: 20px 20px;
 }
 
 .hero-inner {
@@ -74,12 +80,12 @@ body {
 }
 
 .photo-frame {
-  width: 200px;
-  height: 200px;
-  border-radius: 20px;
+  width: 240px;
+  height: 240px;
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
   overflow: hidden;
-  border: 2px solid #dbe4ff;
-  box-shadow: 0 4px 16px rgba(37, 99, 235, 0.08);
+  border: 3px solid #dbe4ff;
+  box-shadow: var(--shadow-md), 0 8px 24px rgba(37, 99, 235, 0.08);
 }
 
 .profile-image {
@@ -103,19 +109,19 @@ body {
 }
 
 .site-header h1 a {
-  color: var(--text);
+  color: var(--accent);
   text-decoration: none;
 }
 
 .site-header h1 a:hover {
-  color: var(--accent);
+  color: var(--accent-hover);
 }
 
 .name-audio {
   font-size: 0.6em;
   vertical-align: middle;
   text-decoration: none;
-  opacity: 0.5;
+  opacity: 0.4;
   transition: opacity 0.2s ease;
 }
 
@@ -144,7 +150,7 @@ body {
 .site-header nav a:hover,
 .site-header nav a.active {
   color: var(--accent);
-  background: var(--accent-light);
+  background: rgba(37, 99, 235, 0.08);
 }
 
 /* ============================================
@@ -165,19 +171,19 @@ h2 {
   font-size: 1.5rem;
   margin: 2rem 0 1rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--border);
+  border-bottom: none;
   position: relative;
 }
 
 h2::after {
   content: '';
   position: absolute;
-  bottom: -2px;
+  bottom: 0;
   left: 0;
-  width: 50px;
-  height: 2px;
-  background: var(--accent);
-  border-radius: 1px;
+  width: 40px;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), #7c3aed);
+  border-radius: 2px;
 }
 
 h3 {
@@ -202,9 +208,9 @@ a:hover {
 
 hr {
   border: none;
-  height: 1px;
-  background: var(--border);
-  margin: 2rem 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--border), transparent);
+  margin: 2.5rem 0;
 }
 
 strong {
@@ -213,11 +219,13 @@ strong {
 
 /* ---- Section cards ---- */
 .bio-section {
-  background: linear-gradient(135deg, #f8faff, #f0f4ff);
+  background: var(--bg-card);
   border: 1px solid #dbe4ff;
+  border-left: 4px solid var(--accent);
   border-radius: var(--radius);
   padding: 1.5rem 2rem;
   margin: 1.5rem 0;
+  box-shadow: var(--shadow-sm);
 }
 
 .contact-section {
@@ -226,6 +234,7 @@ strong {
   border-radius: var(--radius);
   padding: 1.5rem 2rem;
   margin: 1.5rem 0;
+  box-shadow: var(--shadow-sm);
 }
 
 /* ---- Publication cards ---- */
@@ -236,11 +245,13 @@ strong {
   border-radius: var(--radius);
   padding: 1.5rem 2rem;
   margin: 0.8rem 0;
-  transition: border-color 0.2s ease;
+  box-shadow: var(--shadow-sm);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .pub-card:hover {
   border-left-color: var(--accent);
+  box-shadow: var(--shadow-md);
 }
 
 .pub-card .pub-title {
@@ -312,6 +323,7 @@ table {
   border: 1px solid var(--border);
   border-radius: var(--radius);
   overflow: hidden;
+  box-shadow: var(--shadow-sm);
 }
 
 thead {
@@ -369,13 +381,6 @@ td a {
 }
 
 /* ---- Intro section ---- */
-.intro-greeting {
-  font-size: 2rem;
-  font-weight: 800;
-  margin-bottom: 0.5rem;
-  letter-spacing: -0.02em;
-}
-
 .intro-role {
   font-size: 1.05rem;
   color: var(--text-muted);
@@ -399,7 +404,8 @@ td a {
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1.5rem 1.8rem;
-  transition: border-color 0.2s ease;
+  box-shadow: var(--shadow-sm);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
   text-decoration: none;
   display: block;
   color: var(--text);
@@ -407,6 +413,7 @@ td a {
 
 .project-card:hover {
   border-color: var(--accent);
+  box-shadow: var(--shadow-md);
   text-decoration: none;
 }
 
@@ -475,6 +482,7 @@ td a {
   font-size: 0.85rem;
   padding: 2rem 1rem;
   border-top: 1px solid var(--border);
+  background: #f4f7ff;
 }
 
 .footer-links {
@@ -493,6 +501,7 @@ td a {
   border-radius: 10px;
   border: 1px solid var(--border);
   color: var(--text-muted);
+  background: var(--bg-card);
   transition: all 0.2s ease;
   text-decoration: none;
 }
@@ -516,8 +525,8 @@ td a {
   }
 
   .photo-frame {
-    width: 170px;
-    height: 170px;
+    width: 190px;
+    height: 190px;
   }
 
   .hero-text {
@@ -538,10 +547,6 @@ td a {
 
   .pub-card {
     padding: 1.2rem;
-  }
-
-  .intro-greeting {
-    font-size: 1.5rem;
   }
 }
 
