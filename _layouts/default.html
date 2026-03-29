@@ -10,8 +10,13 @@
   <meta name="keywords" content="Ndapa Nakashole, NLP, Natural Language Processing, Artificial Intelligence, UCSD, UC San Diego, multilingual, African languages, Okalai AI, computer science, machine learning, low-resource languages, knowledge bases">
 
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 
 </head>
 <body>
@@ -60,6 +65,9 @@
       </a>
       <a href="https://okalai.org" class="footer-icon" title="Okalai AI">
         <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+      </a>
+      <a href="{{ '/feed.xml' | relative_url }}" class="footer-icon" title="RSS Feed">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
       </a>
     </div>
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
