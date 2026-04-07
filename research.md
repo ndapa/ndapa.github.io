@@ -6,6 +6,12 @@ permalink: /research/
 
 ## Selected Publications
 
+<div class="pub-card" id="grammar-acl2026">
+  <div class="pub-title">Grammar as Control: Modular Language Generation for the Long Tail</div>
+  <div class="pub-authors">Ndapa Nakashole</div>
+  <div class="pub-venue">ACL 2026</div>
+</div>
+
 <div class="pub-card" id="kwanyama-lrec2026">
   <div class="pub-title">Sentiment Analysis and Language Models for Kwanyama</div>
   <div class="pub-authors">Ndapa Nakashole</div>
