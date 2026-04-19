@@ -16,7 +16,7 @@ permalink: /research/
   <div class="pub-title">Sentiment Analysis and Language Models for  <a href="https://okalex.org/"> Oshikwanyama</a></div>
   <div class="pub-authors">Ndapa Nakashole</div>
   <div class="pub-venue">LREC 2026</div>
-   style="color: var(--text-muted); font-size: 0.9rem; margin-top: 0.4rem;"><em>1B, 3B, and 8B parameter LLMs for <a href="https://okalex.org/"> Oshikwanyama</a></em> &middot; <a href="https://huggingface.co/okalai-ai">Available on Hugging Face</a>
+   <style="color: var(--text-muted); font-size: 0.9rem; margin-top: 0.4rem;"><em>1B, 3B, and 8B parameter LLMs for <a href="https://okalex.org/"> Oshikwanyama</a></em> &middot; <a href="https://huggingface.co/okalai-ai">Available on Hugging Face</a>
 </div>
 
 <div class="pub-card" id="moimoe-acl2025">
