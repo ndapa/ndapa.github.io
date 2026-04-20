@@ -21,10 +21,11 @@ permalink: /research/
   <div class="pub-authors">Ndapa Nakashole</div>
   <div class="pub-venue">LREC 2026</div>
   
- <em>1B, 3B, and 8B parameter LLMs for <a href="https://okalex.org/"> Oshikwanyama</a></em> &middot; <a href="https://huggingface.co/okalai-ai">Available on Hugging Face</a>
+ <em>1B, 3B, and 8B parameter LLMs for <a href="https://okalex.org/"> Oshikwanyama</a></em>
   <div class="pub-links">
-  <a href="{{'/assets/docs/papers/2026-lrec-oka.pdf'|relative_url}}">📄 PDF</a>
-      </div>
+    <a href="{{'/assets/docs/papers/2026-lrec-oka.pdf'|relative_url}}">📄 PDF</a>
+    <a href="https://huggingface.co/okalai-ai">🤗 Hugging Face</a>
+  </div>
 </div>
 
 <div class="pub-card" id="moimoe-acl2025">
