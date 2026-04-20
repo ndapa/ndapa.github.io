@@ -10,9 +10,10 @@ permalink: /research/
   <div class="pub-title">Grammar as Control: Modular Language Generation for the Long Tail</div>
   <div class="pub-authors">Ndapa Nakashole</div>
   <div class="pub-venue">ACL 2026</div>
-    <div class="pub-links">
-  <a href="{{'/assets/docs/papers/2026-acl-mtig.pdf'|relative_url}}">📄 PDF</a>
-      </div>
+  <div class="pub-links">
+    <a href="{{'/assets/docs/papers/2026-acl-mtig.pdf'|relative_url}}">📄 PDF</a>
+    <a href="https://github.com/okalai-ai/mtig">💾 Data</a>
+  </div>
   
 </div>
 
@@ -24,6 +25,7 @@ permalink: /research/
  <em>1B, 3B, and 8B parameter LLMs for <a href="https://okalex.org/"> Oshikwanyama</a></em>
   <div class="pub-links">
     <a href="{{'/assets/docs/papers/2026-lrec-oka.pdf'|relative_url}}">📄 PDF</a>
+    <a href="https://github.com/okalai-ai/okaResource">💾 Data</a>
     <a href="https://huggingface.co/okalai-ai">🤗 Hugging Face</a>
   </div>
 </div>
