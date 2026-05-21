@@ -94,6 +94,15 @@ permalink: /research/
   </div>
 </div>
 
+<div class="pub-card" id="norma-emnlp2018">
+  <div class="pub-title">NORMA: Neighborhood Sensitive Maps for Multilingual Word Embeddings</div>
+  <div class="pub-authors">Ndapa Nakashole</div>
+  <div class="pub-venue">EMNLP 2018</div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/D18-1047.pdf">📄 PDF</a>
+  </div>
+</div>
+
 <div class="pub-card" id="patty-emnlp2012">
   <div class="pub-title">PATTY: A Taxonomy of Relational Patterns with Semantic Types <span class="award-badge">🏆 Best Paper Runner-Up</span></div>
   <div class="pub-authors">Ndapa Nakashole, Gerhard Weikum, Fabian Suchanek</div>
