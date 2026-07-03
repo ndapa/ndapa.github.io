@@ -313,6 +313,28 @@ strong {
   vertical-align: middle;
 }
 
+/* Impact note */
+.pub-card .pub-impact {
+  margin-top: 0.7rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--text-muted);
+  background: var(--accent-light);
+  border-left: 3px solid var(--accent);
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+}
+
+.pub-card .pub-impact a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pub-card .pub-impact a:hover {
+  text-decoration: underline;
+}
+
 /* ---- Tables ---- */
 table {
   width: 100%;

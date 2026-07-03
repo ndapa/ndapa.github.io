@@ -14,7 +14,7 @@ permalink: /research/
     <a href="{{'/assets/docs/papers/2026-acl-mtig.pdf'|relative_url}}">📄 PDF</a>
     <a href="https://github.com/okalai-ai/mtig">💾 Data</a>
   </div>
-  
+  <div class="pub-impact">🚀 This work is a major component that led to the first usable <a href="https://okalex.org/">English–Kwanyama MT system</a>.</div>
 </div>
 
 <div class="pub-card" id="kwanyama-lrec2026">
