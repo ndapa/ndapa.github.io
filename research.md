@@ -14,15 +14,15 @@ permalink: /research/
     <a href="{{'/assets/docs/papers/2026-acl-mtig.pdf'|relative_url}}">📄 PDF</a>
     <a href="https://github.com/okalai-ai/mtig">💾 Data</a>
   </div>
-  <div class="pub-impact">🚀 This work is a major component of the project that led to the first usable <a href="https://okalex.org/">English–Kwanyama MT system</a>.</div>
+  <div class="pub-impact">🚀 This work enabled our first <a href="https://okalex.org/">MT systems</a> from English into four languages: Kwanyama, Oshindonga, Rukwangali, and Herero. None of these are supported in commercial MT systems.</div>
 </div>
 
 <div class="pub-card" id="kwanyama-lrec2026">
-  <div class="pub-title">Sentiment Analysis and Language Models for  <a href="https://okalex.org/"> Oshikwanyama</a></div>
+  <div class="pub-title">Sentiment Analysis and Language Models for <a href="https://okalex.org/">Kwanyama</a></div>
   <div class="pub-authors">Ndapa Nakashole</div>
   <div class="pub-venue">LREC 2026</div>
   
- <em>1B, 3B, and 8B parameter LLMs for <a href="https://okalex.org/"> Oshikwanyama</a></em>
+  <em>1B, 3B, and 8B parameter LLMs for <a href="https://okalex.org/">Kwanyama</a></em>
   <div class="pub-links">
     <a href="{{'/assets/docs/papers/2026-lrec-oka.pdf'|relative_url}}">📄 PDF</a>
     <a href="https://github.com/okalai-ai/okaResource">💾 Data</a>
