@@ -14,7 +14,7 @@ permalink: /research/
     <a href="{{'/assets/docs/papers/2026-acl-mtig.pdf'|relative_url}}">📄 PDF</a>
     <a href="https://github.com/okalai-ai/mtig">💾 Data</a>
   </div>
-  <div class="pub-impact">🚀 This work enabled our first <a href="https://okalex.org/">MT systems</a> from English into four languages: Kwanyama, Oshindonga, Rukwangali, and Herero. None of these are supported in commercial MT systems.</div>
+  <div class="pub-impact">🚀 This work enabled our first <a href="https://okalex.org/">machine translation (MT) systems</a> from English into four languages: Kwanyama, Oshindonga, Rukwangali, and Herero. None of these are supported in commercial MT systems.</div>
 </div>
 
 <div class="pub-card" id="kwanyama-lrec2026">
